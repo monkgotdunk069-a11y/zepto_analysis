@@ -94,7 +94,7 @@ The dashboard was built in Power BI Desktop and includes:
 - 1 product detail data table
 - Category slicer for filtering all visuals simultaneously
 
-![Dashboard](https://raw.githubusercontent.com/your-username/zepto/main/assets/dashboard_preview.png)
+
 
 > To view the dashboard interactively, open zepto_dashboard.pbix in Power BI Desktop.
 
